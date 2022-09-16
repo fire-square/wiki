@@ -2,7 +2,7 @@
 title: Главная страница
 description: Краткое описание по пользованию данной вики.
 published: true
-date: 2022-09-16T18:41:28.681Z
+date: 2022-09-16T18:42:58.544Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-16T18:12:06.345Z
